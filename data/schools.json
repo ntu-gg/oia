@@ -1,0 +1,2322 @@
+[
+  {
+    "countryCode": 27,
+    "schoolName": "里約熱內盧天主教大學",
+    "schoolUrl": "http://www.puc-rio.br/index.html",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 974
+  },
+  {
+    "countryCode": 27,
+    "schoolName": "坎皮納斯州立大學",
+    "schoolUrl": "http://www.unicamp.br/unicamp/?language=en",
+    "startYear": 2013,
+    "contractQuota": 3,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 931
+  },
+  {
+    "countryCode": 27,
+    "schoolName": "聖保羅大學",
+    "schoolUrl": "http://www5.usp.br/",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1115
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "愛德華王子島大學",
+    "schoolUrl": "http://home.upei.ca/",
+    "startYear": 2015,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 1075
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "蒙特婁大學",
+    "schoolUrl": "http://www.umontreal.ca/",
+    "startYear": 2015,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 115
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "拉法爾大學",
+    "schoolUrl": "http://www2.ulaval.ca/en/future-students.html",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 113
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "女王大學",
+    "schoolUrl": "http://www.queensu.ca/",
+    "startYear": 2010,
+    "contractQuota": 6,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 599
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "蒙特婁理工學院",
+    "schoolUrl": "http://www.polymtl.ca/en/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 600
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "滑鐵盧大學",
+    "schoolUrl": "http://www.uwaterloo.ca/",
+    "startYear": 2006,
+    "contractQuota": 4,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 6
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "西門菲沙大學",
+    "schoolUrl": "http://www.sfu.ca/",
+    "startYear": 2001,
+    "contractQuota": 4,
+    "selectQuota": 3,
+    "selectQuotaTotal": 3,
+    "oiaId": 5
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "渥太華大學",
+    "schoolUrl": "http://www.uottawa.ca/",
+    "startYear": 2000,
+    "contractQuota": 1,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 3
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "多倫多大學",
+    "schoolUrl": "http://www.cie.utoronto.ca/",
+    "startYear": 2000,
+    "contractQuota": 3,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 4
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "維多利亞大學",
+    "schoolUrl": "http://www.uvic.ca/",
+    "startYear": 1998,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 2
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "加拿大英屬哥倫比亞大學(卑詩大學)",
+    "schoolUrl": "http://www.ubc.ca/",
+    "startYear": 1997,
+    "contractQuota": 5,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 1
+  },
+  {
+    "countryCode": 34,
+    "schoolName": "魁北克大學蒙特婁分校",
+    "schoolUrl": "http://www.uqam.ca/",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1061
+  },
+  {
+    "countryCode": 39,
+    "schoolName": "智利天主教大學",
+    "schoolUrl": "http://www.puc.cl/",
+    "startYear": 2007,
+    "contractQuota": 5,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 60
+  },
+  {
+    "countryCode": 122,
+    "schoolName": "墨西哥國立自治大學",
+    "schoolUrl": "http://www.unam.mx",
+    "startYear": 2013,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 903
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "南卡羅萊納大學",
+    "schoolUrl": "http://www.sc.edu/",
+    "startYear": 2016,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 872
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "匹茲堡大學",
+    "schoolUrl": "http://www.pitt.edu/",
+    "startYear": 2015,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 1078
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "康乃迪克大學",
+    "schoolUrl": "http://uconn.edu/",
+    "startYear": 2015,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 863
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "喬治梅森大學",
+    "schoolUrl": "http://www.gmu.edu/",
+    "startYear": 2015,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1000
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "新澤西州立羅格斯大學",
+    "schoolUrl": "http://www.rutgers.edu/",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 799
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "北卡羅萊納大學教堂山分校",
+    "schoolUrl": "http://www.unc.edu/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 612
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "威斯康辛大學麥迪遜分校",
+    "schoolUrl": "http://www.wisc.edu/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 366
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "天普大學",
+    "schoolUrl": "http://www.temple.edu/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 432
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "猶他大學",
+    "schoolUrl": "http://www.utah.edu/portal/site/uuhome/",
+    "startYear": 2009,
+    "contractQuota": 10,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 364
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "夏威夷太平洋大學",
+    "schoolUrl": "http://www.hpu.edu/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 365
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "夏威夷大學希羅分校",
+    "schoolUrl": "http://www.uhh.hawaii.edu/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 369
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "紐約州立大學",
+    "schoolUrl": "http://www.albany.edu/",
+    "startYear": 2007,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 17
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "亞利桑那州立大學",
+    "schoolUrl": "http://www.asu.edu/",
+    "startYear": 2007,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 18
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "伊利諾大學芝加哥分校",
+    "schoolUrl": "http://www.uic.edu/",
+    "startYear": 2007,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 19
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "馬里蘭大學",
+    "schoolUrl": "http://www.umd.edu/",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 16
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "奧瑞岡大學",
+    "schoolUrl": "http://darkwing.uoregon.edu/",
+    "startYear": 2005,
+    "contractQuota": 5,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 15
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "北卡羅萊納州立大學",
+    "schoolUrl": "http://www.ncsu.edu/",
+    "startYear": 2003,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 13
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "夏威夷大學瑪諾亞分校",
+    "schoolUrl": "http://manoa.hawaii.edu/mix/",
+    "startYear": 2003,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 14
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "喬治亞大學",
+    "schoolUrl": "http://www.uga.edu/",
+    "startYear": 2002,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 10
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "奧克拉荷瑪大學",
+    "schoolUrl": "http://www.ou.edu/web.html",
+    "startYear": 2002,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 11
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "加州州立大學",
+    "schoolUrl": "http://www.calstate.edu/ip/",
+    "startYear": 2002,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 12
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "華盛頓大學",
+    "schoolUrl": "http://www.washington.edu/",
+    "startYear": 2001,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 7
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "加州大學",
+    "schoolUrl": "http://eap.ucop.edu/ReciprocalExchanges/Pages/default.aspx",
+    "startYear": 2001,
+    "contractQuota": 50,
+    "selectQuota": 8,
+    "selectQuotaTotal": 16,
+    "oiaId": 9
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "加州大學柏克萊分校",
+    "schoolUrl": "http://www.berkeley.edu/",
+    "startYear": 2000,
+    "contractQuota": 4,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 243
+  },
+  {
+    "countryCode": 193,
+    "schoolName": "辛辛那提大學",
+    "schoolUrl": "http://www.uc.edu/",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 875
+  },
+  {
+    "countryCode": 82,
+    "schoolName": "嶺南大學",
+    "schoolUrl": "http://www.ln.edu.hk/cht/",
+    "startYear": 2016,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1062
+  },
+  {
+    "countryCode": 82,
+    "schoolName": "香港大學",
+    "schoolUrl": "http://www.hku.hk/c_index.html",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 169
+  },
+  {
+    "countryCode": 82,
+    "schoolName": "香港理工大學",
+    "schoolUrl": "http://www.polyu.edu.hk/web/tc/home/index.html",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 439
+  },
+  {
+    "countryCode": 82,
+    "schoolName": "香港城市大學",
+    "schoolUrl": "http://www.cityu.edu.hk/cityu/index-tc.htm",
+    "startYear": 2007,
+    "contractQuota": 11,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 22
+  },
+  {
+    "countryCode": 82,
+    "schoolName": "香港中文大學",
+    "schoolUrl": "http://www.cuhk.edu.hk/v6/b5/",
+    "startYear": 2001,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 21
+  },
+  {
+    "countryCode": 90,
+    "schoolName": "以色列理工學院",
+    "schoolUrl": "http://www.technion.ac.il/en/",
+    "startYear": 2010,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 384
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "一橋大學",
+    "schoolUrl": "http://www.hit-u.ac.jp/",
+    "startYear": 2016,
+    "contractQuota": 4,
+    "selectQuota": 4,
+    "selectQuotaTotal": 4,
+    "oiaId": 1009
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "名古屋外國語大學",
+    "schoolUrl": "http://www-e.nufs.ac.jp/",
+    "startYear": 2014,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1004
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "日本大學",
+    "schoolUrl": "http://www.nihon-u.ac.jp/en/",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 955
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "立命館大學",
+    "schoolUrl": "http://www.ritsumei.ac.jp/eng/",
+    "startYear": 2013,
+    "contractQuota": 1,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 809
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "關西學院大學",
+    "schoolUrl": "http://global.kwansei.ac.jp/academics/academics_m_000558.html",
+    "startYear": 2013,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 816
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "長崎大學",
+    "schoolUrl": "http://www.nagasaki-u.ac.jp/ryugaku/index_en.html",
+    "startYear": 2012,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 798
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "東京工業大學",
+    "schoolUrl": "http://www.titech.ac.jp/english/index.html",
+    "startYear": 2012,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 394
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "橫濱國立大學",
+    "schoolUrl": "http://www.ynu.ac.jp/english/index.html",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 817
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "金澤大學",
+    "schoolUrl": "http://www.kanazawa-u.ac.jp/e/",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 824
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "神奈川大學",
+    "schoolUrl": "http://www.kanagawa-u.ac.jp/english/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 800
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "青山學院大學",
+    "schoolUrl": "http://www.aoyama.ac.jp/en/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 376
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "同志社大學",
+    "schoolUrl": "http://www.doshisha.ac.jp/en/index.html",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 377
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "上智大學",
+    "schoolUrl": "http://www.sophia.ac.jp/eng/e_top",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 607
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "大阪大學",
+    "schoolUrl": "http://www.osaka-u.ac.jp/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 108
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "名古屋大學",
+    "schoolUrl": "http://en.nagoya-u.ac.jp/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 103
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "神戶大學",
+    "schoolUrl": "http://www.kobe-u.ac.jp/en/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 109
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "岡山大學",
+    "schoolUrl": "http://www.okayama-u.ac.jp/index_e.html",
+    "startYear": 2008,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 38
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "筑波大學",
+    "schoolUrl": "http://www.tsukuba.ac.jp/english/",
+    "startYear": 2008,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 107
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "東京大學",
+    "schoolUrl": "http://www.u-tokyo.ac.jp/en/",
+    "startYear": 2006,
+    "contractQuota": 10,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 34
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "國際教養大學",
+    "schoolUrl": "http://web.aiu.ac.jp/en",
+    "startYear": 2006,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 3,
+    "oiaId": 35
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "北海道大學",
+    "schoolUrl": "http://www.oia.hokudai.ac.jp/",
+    "startYear": 2006,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 36
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "京都大學",
+    "schoolUrl": "http://www.kyoto-u.ac.jp/en",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 37
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "關西大學",
+    "schoolUrl": "http://www.kansai-u.ac.jp/English/index.html",
+    "startYear": 2004,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 32
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "琉球大學",
+    "schoolUrl": "http://www.u-ryukyu.ac.jp/en/index.html",
+    "startYear": 2004,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 33
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "東京學藝大學",
+    "schoolUrl": "http://www.u-gakugei.ac.jp/english/",
+    "startYear": 2003,
+    "contractQuota": 4,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 31
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "九州大學",
+    "schoolUrl": "http://www.kyushu-u.ac.jp/",
+    "startYear": 2002,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 30
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "慶應義塾大學",
+    "schoolUrl": "http://www.keio.ac.jp/index-en.html",
+    "startYear": 2001,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 28
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "東北大學",
+    "schoolUrl": "http://www.tohoku.ac.jp/en/",
+    "startYear": 2001,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 29
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "御茶水女子大學",
+    "schoolUrl": "http://www.ocha.ac.jp/en/index.html",
+    "startYear": 2000,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 26
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "東京外國語大學",
+    "schoolUrl": "http://www.tufs.ac.jp/english/",
+    "startYear": 2000,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 27
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "明治大學",
+    "schoolUrl": "http://www.meiji.ac.jp/cip/english/",
+    "startYear": 1999,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 23
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "創價大學",
+    "schoolUrl": "http://www.soka.ac.jp/en/",
+    "startYear": 1999,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 25
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "兵庫縣立大學",
+    "schoolUrl": "http://www.u-hyogo.ac.jp/",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 978
+  },
+  {
+    "countryCode": 93,
+    "schoolName": "廣島大學",
+    "schoolUrl": "http://www.hiroshima-u.ac.jp/index-j.html",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 927
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "韓國科學技術院",
+    "schoolUrl": "http://www.kaist.edu/html/en/index.html",
+    "startYear": 2015,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 188
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "延世大學",
+    "schoolUrl": "http://www.yonsei.ac.kr/eng/index.asp",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 310
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "高麗大學",
+    "schoolUrl": "http://www.korea.edu",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 961
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "國立釜山大學",
+    "schoolUrl": "http://english.pusan.ac.kr/html/00_main/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 433
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "成均館大學",
+    "schoolUrl": "http://www.skku.edu/eng/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 362
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "漢陽大學",
+    "schoolUrl": "http://www.hanyang.ac.kr/english/",
+    "startYear": 2009,
+    "contractQuota": 1,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 378
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "梨花女子大學",
+    "schoolUrl": "http://www.ewha.ac.kr/mbs/ewhaen/index.jsp",
+    "startYear": 2009,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 361
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "順天國立大學",
+    "schoolUrl": "http://w1.sunchon.ac.kr/web/eng/",
+    "startYear": 2005,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 40
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "浦項工科大學",
+    "schoolUrl": "http://www.postech.ac.kr/",
+    "startYear": 2005,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 41
+  },
+  {
+    "countryCode": 98,
+    "schoolName": "首爾國立大學",
+    "schoolUrl": "http://en.snu.ac.kr/",
+    "startYear": 1999,
+    "contractQuota": 2,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 39
+  },
+  {
+    "countryCode": 111,
+    "schoolName": "澳門大學",
+    "schoolUrl": "http://www.umac.mo/",
+    "startYear": null,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1001
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "武漢理工大學",
+    "schoolUrl": "http://www.whut.edu.cn/index.html",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 912
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "北京航空航天大學",
+    "schoolUrl": "http://www.buaa.edu.cn/",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 922
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "華中科技大學",
+    "schoolUrl": "http://www.hust.edu.cn/index.html",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 894
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "貴州大學",
+    "schoolUrl": "http://www.gzu.edu.cn/",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 831
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "東南大學",
+    "schoolUrl": "http://www.seu.edu.cn/",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 901
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "四川大學",
+    "schoolUrl": "http://www.scu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 795
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "聊城大學",
+    "schoolUrl": "http://www.lcu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 1,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 796
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "天津大學",
+    "schoolUrl": "http://www.tju.edu.cn",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 797
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "蘭州大學",
+    "schoolUrl": "http://www.lzu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 819
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "北京師範大學",
+    "schoolUrl": "http://www.bnu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 793
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "武漢大學",
+    "schoolUrl": "http://www.whu.edu.cn/index.html",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 593
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "內蒙古大學",
+    "schoolUrl": "http://www.imu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 792
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "重慶大學",
+    "schoolUrl": "http://www.cqu.edu.cn/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 801
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "中山大學",
+    "schoolUrl": "http://www.sysu.edu.cn",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 396
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "西安交通大學",
+    "schoolUrl": "http://www.xjtu.edu.cn/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 416
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "哈爾濱工業大學",
+    "schoolUrl": "http://www.hit.edu.cn/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 422
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "大連理工大學",
+    "schoolUrl": "http://www.dlut.edu.cn/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 596
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "廈門大學",
+    "schoolUrl": "http://www.xmu.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 47
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "上海交通大學",
+    "schoolUrl": "http://www.sjtu.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 48
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "山東大學",
+    "schoolUrl": "http://www.sdu.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 4,
+    "selectQuotaTotal": 4,
+    "oiaId": 49
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "南京大學",
+    "schoolUrl": "http://www.nju.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 50
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "清華大學",
+    "schoolUrl": "http://www.tsinghua.edu.cn/qhdwzy/index.jsp",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 51
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "浙江大學",
+    "schoolUrl": "http://www.zju.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 52
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "中國科學技術大學",
+    "schoolUrl": "http://www.ustc.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 53
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "復旦大學",
+    "schoolUrl": "http://www.fudan.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 54
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "北京大學",
+    "schoolUrl": "http://www.pku.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 10,
+    "selectQuota": 10,
+    "selectQuotaTotal": 20,
+    "oiaId": 55
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "中國人民大學",
+    "schoolUrl": "http://www.ruc.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 56
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "吉林大學",
+    "schoolUrl": "http://www.jlu.edu.cn/newjlu/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 57
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "中國農業大學",
+    "schoolUrl": "http://www.cau.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 105
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "南開大學",
+    "schoolUrl": "http://www.nankai.edu.cn/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 106
+  },
+  {
+    "countryCode": 40,
+    "schoolName": "中國社會科學院研究生院",
+    "schoolUrl": "",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1107
+  },
+  {
+    "countryCode": 115,
+    "schoolName": "馬來亞大學",
+    "schoolUrl": "http://www.um.edu.my/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 556
+  },
+  {
+    "countryCode": 115,
+    "schoolName": "馬來西亞理工大學(UTM)",
+    "schoolUrl": "http://www.utm.my/",
+    "startYear": 2011,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 802
+  },
+  {
+    "countryCode": 115,
+    "schoolName": "馬來西亞理科大學(USM)",
+    "schoolUrl": "http://www.usm.my/bi/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 605
+  },
+  {
+    "countryCode": 126,
+    "schoolName": "蒙古國立大學",
+    "schoolUrl": "http://www.num.edu.mn",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 42
+  },
+  {
+    "countryCode": 152,
+    "schoolName": "聖彼得堡國立大學",
+    "schoolUrl": "http://eng.spbu.ru/",
+    "startYear": 2013,
+    "contractQuota": 1,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 892
+  },
+  {
+    "countryCode": 152,
+    "schoolName": "莫斯科國立大學",
+    "schoolUrl": "http://www.msu.ru/en/",
+    "startYear": 2012,
+    "contractQuota": 10,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 891
+  },
+  {
+    "countryCode": 165,
+    "schoolName": "新加坡管理大學",
+    "schoolUrl": "http://www.smu.edu.sg/",
+    "startYear": 2007,
+    "contractQuota": 4,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 45
+  },
+  {
+    "countryCode": 165,
+    "schoolName": "南洋理工大學",
+    "schoolUrl": "http://www.ntu.edu.sg/",
+    "startYear": 2002,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 43
+  },
+  {
+    "countryCode": 165,
+    "schoolName": "新加坡國立大學",
+    "schoolUrl": "http://www.nus.edu.sg/",
+    "startYear": 2002,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 44
+  },
+  {
+    "countryCode": 165,
+    "schoolName": "新加坡科技與設計大學",
+    "schoolUrl": "http://www.sutd.edu.sg/",
+    "startYear": null,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1080
+  },
+  {
+    "countryCode": 182,
+    "schoolName": "國立法政大學",
+    "schoolUrl": "http://www.tu.ac.th/default.tu/thammasat80/",
+    "startYear": 2011,
+    "contractQuota": 5,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 794
+  },
+  {
+    "countryCode": 182,
+    "schoolName": "朱拉隆功大學",
+    "schoolUrl": "http://www.chula.ac.th/en/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 390
+  },
+  {
+    "countryCode": 182,
+    "schoolName": "亞洲理工學院",
+    "schoolUrl": "http://www.ait.ac.th",
+    "startYear": 2007,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 46
+  },
+  {
+    "countryCode": 187,
+    "schoolName": "柯克大學",
+    "schoolUrl": "http://www.ku.edu.tr/en",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 890
+  },
+  {
+    "countryCode": 187,
+    "schoolName": "中東科技大學",
+    "schoolUrl": "http://www.metu.edu.tr/",
+    "startYear": null,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1079
+  },
+  {
+    "countryCode": 12,
+    "schoolName": "維也納大學",
+    "schoolUrl": "http://www.univie.ac.at/",
+    "startYear": 2014,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 3,
+    "oiaId": 998
+  },
+  {
+    "countryCode": 12,
+    "schoolName": "林茲大學",
+    "schoolUrl": "http://www.jku.at/",
+    "startYear": 1997,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 171
+  },
+  {
+    "countryCode": 19,
+    "schoolName": "托馬斯莫爾大學學院",
+    "schoolUrl": "http://www.thomasmore.be/about",
+    "startYear": 2016,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1103
+  },
+  {
+    "countryCode": 19,
+    "schoolName": "布魯塞爾自由大學",
+    "schoolUrl": "http://www.ulb.ac.be/",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 59
+  },
+  {
+    "countryCode": 50,
+    "schoolName": "查理士大學",
+    "schoolUrl": "http://www.cuni.cz",
+    "startYear": 2014,
+    "contractQuota": 1,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 921
+  },
+  {
+    "countryCode": 50,
+    "schoolName": "馬薩里克大學",
+    "schoolUrl": "http://www.muni.cz/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 387
+  },
+  {
+    "countryCode": 52,
+    "schoolName": "哥本哈根大學",
+    "schoolUrl": "http://www.ku.dk/",
+    "startYear": 2000,
+    "contractQuota": 2,
+    "selectQuota": 3,
+    "selectQuotaTotal": 3,
+    "oiaId": 61
+  },
+  {
+    "countryCode": 65,
+    "schoolName": "赫爾辛基大學",
+    "schoolUrl": "http://www.helsinki.fi/university",
+    "startYear": 1999,
+    "contractQuota": 5,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 62
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "南巴黎大學",
+    "schoolUrl": "http://www.u-psud.fr/en/index.html",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 104
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎高等農業學院",
+    "schoolUrl": "http://www.agroparistech.fr",
+    "startYear": 2014,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 1014
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎高等礦業學院",
+    "schoolUrl": "http://www.mines-paristech.fr/Accueil/",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 917
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "翰尼第一大學",
+    "schoolUrl": "http://www.univ-rennes1.fr/",
+    "startYear": 2012,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 818
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎第十三大學",
+    "schoolUrl": "http://www.univ-paris13.fr/",
+    "startYear": 2011,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 788
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎西大學農泰爾拉德芳斯",
+    "schoolUrl": "http://www.u-paris10.fr/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 601
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "卡相高等學院",
+    "schoolUrl": "http://www.ens-cachan.fr",
+    "startYear": 2010,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 305
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎中央理工學院-電力高等學院",
+    "schoolUrl": "http://www.supelec.fr/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 597
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "里爾天主教大學",
+    "schoolUrl": "http://www.univ-catholille.fr",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 392
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "法國女性高等綜合理工學院",
+    "schoolUrl": "http://www.epf.fr/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 101
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "特魯瓦大學",
+    "schoolUrl": "http://www.utt.fr/",
+    "startYear": 2008,
+    "contractQuota": 4,
+    "selectQuota": 2,
+    "selectQuotaTotal": 3,
+    "oiaId": 67
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "皮耶及瑪麗居禮大學",
+    "schoolUrl": "http://www.upmc.fr/",
+    "startYear": 2008,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 68
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎高等政治學院",
+    "schoolUrl": "http://www.sciences-po.fr/portail/",
+    "startYear": 2007,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 66
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "巴黎高等綜合理工學院",
+    "schoolUrl": "http://www.polytechnique.fr/",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 64
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "尚慕蘭里昂第三大學",
+    "schoolUrl": "http://www.univ-lyon3.fr/",
+    "startYear": 2006,
+    "contractQuota": 4,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 65
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "科諾伯勒阿爾卑斯大學",
+    "schoolUrl": "http://www.ujf-grenoble.fr",
+    "startYear": 2003,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 63
+  },
+  {
+    "countryCode": 66,
+    "schoolName": "奧爾良大學",
+    "schoolUrl": "http://www.univ-orleans.fr/en/international/come-study-university-orleans",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1105
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "康斯坦茨大學      ",
+    "schoolUrl": "http://www.uni-konstanz.de",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 4,
+    "selectQuotaTotal": 4,
+    "oiaId": 616
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "柏林洪堡大學",
+    "schoolUrl": "http://www.hu-berlin.de/",
+    "startYear": 2012,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 354
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "斯圖加特大學",
+    "schoolUrl": "http://www.uni-stuttgart.de/home/index.en.html",
+    "startYear": 2012,
+    "contractQuota": 5,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 893
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "弗萊堡大學",
+    "schoolUrl": "http://www.uni-freiburg.de/",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 897
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "柏林工業大學",
+    "schoolUrl": "http://www.tu-berlin.de/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 380
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "魯耳波洪大學",
+    "schoolUrl": "http://www.ruhr-uni-bochum.de/",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 98
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "慕尼黑大學",
+    "schoolUrl": "http://www.uni-muenchen.de/index.html",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 391
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "曼漢姆大學",
+    "schoolUrl": "http://www.uni-mannheim.de",
+    "startYear": 2010,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 595
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "漢堡大學",
+    "schoolUrl": "http://www.uni-hamburg.de/",
+    "startYear": 2009,
+    "contractQuota": 3,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 99
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "亞亨工業大學",
+    "schoolUrl": "http://www.rwth-aachen.de/go/id/bdz/",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 6,
+    "selectQuotaTotal": 6,
+    "oiaId": 247
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "慕尼黑工業大學",
+    "schoolUrl": "http://portal.mytum.de/welcome",
+    "startYear": 2009,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 292
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "杜賓根大學",
+    "schoolUrl": "http://www.uni-tuebingen.de/",
+    "startYear": 2007,
+    "contractQuota": 5,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 75
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "烏爾姆大學",
+    "schoolUrl": "http://www.uni-ulm.de/",
+    "startYear": 2007,
+    "contractQuota": 3,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 76
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "波昂大學",
+    "schoolUrl": "http://www3.uni-bonn.de",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 71
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "卡爾斯魯大學",
+    "schoolUrl": "http://www.kit.edu/",
+    "startYear": 2006,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 72
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "艾朗根紐倫堡大學",
+    "schoolUrl": "http://www.uni-erlangen.de/",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 73
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "多特蒙大學",
+    "schoolUrl": "http://www.uni-dortmund.de/uni/Uni/index.html",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 74
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "海德堡大學",
+    "schoolUrl": "http://www.uni-heidelberg.de/index.html",
+    "startYear": 2004,
+    "contractQuota": 2,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 70
+  },
+  {
+    "countryCode": 71,
+    "schoolName": "柏林自由大學",
+    "schoolUrl": "http://www.fu-berlin.de/",
+    "startYear": 2002,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 69
+  },
+  {
+    "countryCode": 84,
+    "schoolName": "冰島大學",
+    "schoolUrl": "http://www.hi.is/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 374
+  },
+  {
+    "countryCode": 89,
+    "schoolName": "都柏林大學學院",
+    "schoolUrl": "http://www.ucd.ie/",
+    "startYear": 2011,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 321
+  },
+  {
+    "countryCode": 89,
+    "schoolName": "都柏林大學三一學院",
+    "schoolUrl": "http://www.tcd.ie/",
+    "startYear": 2001,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 77
+  },
+  {
+    "countryCode": 91,
+    "schoolName": "聖心天主教大學",
+    "schoolUrl": "http://www.unicatt.it",
+    "startYear": 2015,
+    "contractQuota": 3,
+    "selectQuota": 4,
+    "selectQuotaTotal": 8,
+    "oiaId": 1051
+  },
+  {
+    "countryCode": 91,
+    "schoolName": "波隆納大學",
+    "schoolUrl": "http://www.unibo.it/en/",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 1039
+  },
+  {
+    "countryCode": 103,
+    "schoolName": "拉脫維亞大學",
+    "schoolUrl": "http://www.lu.lv/eng/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 535
+  },
+  {
+    "countryCode": 109,
+    "schoolName": "考納斯理工大學",
+    "schoolUrl": "http://en.ktu.lt/",
+    "startYear": 2014,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 989
+  },
+  {
+    "countryCode": 109,
+    "schoolName": "維爾紐斯大學",
+    "schoolUrl": "http://www.vu.lt/en",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 1040
+  },
+  {
+    "countryCode": 110,
+    "schoolName": "盧森堡大學",
+    "schoolUrl": "http://wwwen.uni.lu/",
+    "startYear": null,
+    "contractQuota": 0,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1100
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "阿姆斯特丹自由大學",
+    "schoolUrl": "http://www.vu.nl/en/",
+    "startYear": 2015,
+    "contractQuota": 1,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 187
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "馬斯垂克大學",
+    "schoolUrl": "http://www.unimaas.nl/",
+    "startYear": 2007,
+    "contractQuota": 6,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 81
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "葛洛寧恩大學",
+    "schoolUrl": "http://www.rug.nl/",
+    "startYear": 2004,
+    "contractQuota": 8,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 79
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "烏特列茲大學",
+    "schoolUrl": "http://www.uu.nl/EN/Pages/default.aspx",
+    "startYear": 2004,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 80
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "萊頓大學",
+    "schoolUrl": "http://www.leidenuniv.nl/en/studyinleiden/",
+    "startYear": 1998,
+    "contractQuota": 2,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 78
+  },
+  {
+    "countryCode": 133,
+    "schoolName": "奈梅亨大學",
+    "schoolUrl": "http://www.ru.nl/english/",
+    "startYear": null,
+    "contractQuota": 3,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1092
+  },
+  {
+    "countryCode": 139,
+    "schoolName": "奧斯陸大學",
+    "schoolUrl": "http://www.uio.no/",
+    "startYear": 2008,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 82
+  },
+  {
+    "countryCode": 148,
+    "schoolName": "華沙大學",
+    "schoolUrl": "http://en.uw.edu.pl/",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 1042
+  },
+  {
+    "countryCode": 149,
+    "schoolName": "波爾圖大學",
+    "schoolUrl": "http://sigarra.up.pt/up_uk/WEB_PAGE.INICIAL",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 4,
+    "oiaId": 388
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "薩拉曼卡大學",
+    "schoolUrl": "http://www.usal.es/webusal/en",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 968
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "馬德里大學",
+    "schoolUrl": "http://www.ucm.es/",
+    "startYear": 2014,
+    "contractQuota": 1,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 1007
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "聖地牙哥。孔波斯特拉大學",
+    "schoolUrl": "http://www.usc.es/en/index.html",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 1041
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "龐貝法布拉大學",
+    "schoolUrl": "http://www.upf.edu/",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 958
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "馬德里自治大學",
+    "schoolUrl": "http://www.uam.es/ss/Satellite/es/home",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 825
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "巴塞隆納自治大學",
+    "schoolUrl": "http://www.uab.es/",
+    "startYear": 2008,
+    "contractQuota": 5,
+    "selectQuota": 5,
+    "selectQuotaTotal": 10,
+    "oiaId": 87
+  },
+  {
+    "countryCode": 171,
+    "schoolName": "馬德里技術大學",
+    "schoolUrl": "http://www.upm.es/",
+    "startYear": 2008,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 88
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "林雪平大學",
+    "schoolUrl": "http://www.liu.se",
+    "startYear": 2010,
+    "contractQuota": 5,
+    "selectQuota": 4,
+    "selectQuotaTotal": 4,
+    "oiaId": 86
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "皇家理工學院",
+    "schoolUrl": "http://www.kth.se/",
+    "startYear": 2010,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 606
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "烏普薩拉大學",
+    "schoolUrl": "http://www.uu.se/",
+    "startYear": 2009,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 375
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "優密歐大學",
+    "schoolUrl": "http://www.umu.se/english",
+    "startYear": 2007,
+    "contractQuota": 5,
+    "selectQuota": 3,
+    "selectQuotaTotal": 6,
+    "oiaId": 85
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "斯德哥爾摩大學",
+    "schoolUrl": "http://www.su.se/english",
+    "startYear": 1999,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 3,
+    "oiaId": 84
+  },
+  {
+    "countryCode": 176,
+    "schoolName": "隆德大學",
+    "schoolUrl": "http://www.lunduniversity.lu.se/",
+    "startYear": 1998,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 83
+  },
+  {
+    "countryCode": 177,
+    "schoolName": "洛桑大學",
+    "schoolUrl": "http://www.unil.ch/central/page2192_en.html",
+    "startYear": 2014,
+    "contractQuota": 3,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 425
+  },
+  {
+    "countryCode": 177,
+    "schoolName": "伯恩大學",
+    "schoolUrl": "http://www.unibe.ch/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 371
+  },
+  {
+    "countryCode": 177,
+    "schoolName": "聖加倫大學",
+    "schoolUrl": "http://www.unisg.ch/",
+    "startYear": 2002,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 89
+  },
+  {
+    "countryCode": 74,
+    "schoolName": "愛丁堡大學",
+    "schoolUrl": "http://www.ed.ac.uk/home",
+    "startYear": 2010,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 604
+  },
+  {
+    "countryCode": 74,
+    "schoolName": "薩塞克斯大學",
+    "schoolUrl": "http://www.sussex.ac.uk/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 2,
+    "oiaId": 102
+  },
+  {
+    "countryCode": 74,
+    "schoolName": "曼徹斯特大學",
+    "schoolUrl": "http://www.manchester.ac.uk/",
+    "startYear": 2009,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 215
+  },
+  {
+    "countryCode": 74,
+    "schoolName": "南安普頓大學",
+    "schoolUrl": "http://www.soton.ac.uk/",
+    "startYear": 2006,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 90
+  },
+  {
+    "countryCode": 74,
+    "schoolName": "肯特大學",
+    "schoolUrl": "http://www.kent.ac.uk/",
+    "startYear": null,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1093
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "昆士蘭大學",
+    "schoolUrl": "http://www.uq.edu.au/",
+    "startYear": 2013,
+    "contractQuota": 1,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 210
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "格里菲斯大學",
+    "schoolUrl": "http://www.gu.edu.au/",
+    "startYear": 2007,
+    "contractQuota": 3,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 97
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "新南威爾斯大學",
+    "schoolUrl": "http://www.unsw.edu.au/",
+    "startYear": 2002,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 96
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "馬奎里大學",
+    "schoolUrl": "http://www.mq.edu.au/",
+    "startYear": 2000,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 2,
+    "oiaId": 94
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "澳洲國立大學",
+    "schoolUrl": "http://www.anu.edu.au/",
+    "startYear": 1998,
+    "contractQuota": 2,
+    "selectQuota": 2,
+    "selectQuotaTotal": 4,
+    "oiaId": 93
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "墨爾本大學",
+    "schoolUrl": "http://www.unimelb.edu.au/",
+    "startYear": 1995,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 92
+  },
+  {
+    "countryCode": 11,
+    "schoolName": "蒙納許大學",
+    "schoolUrl": "http://www.monash.edu/",
+    "startYear": null,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 1109
+  },
+  {
+    "countryCode": 135,
+    "schoolName": "威靈頓維多利亞大學",
+    "schoolUrl": "http://www.victoria.ac.nz/",
+    "startYear": 2014,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 1002
+  },
+  {
+    "countryCode": 135,
+    "schoolName": "奧克蘭大學",
+    "schoolUrl": "http://www.auckland.ac.nz/uoa/",
+    "startYear": 2012,
+    "contractQuota": 2,
+    "selectQuota": 1,
+    "selectQuotaTotal": 1,
+    "oiaId": 203
+  },
+  {
+    "countryCode": 170,
+    "schoolName": "斯泰倫博斯大學",
+    "schoolUrl": "http://www.sun.ac.za/index.asp",
+    "startYear": 2013,
+    "contractQuota": 2,
+    "selectQuota": 0,
+    "selectQuotaTotal": 0,
+    "oiaId": 902
+  }
+]
