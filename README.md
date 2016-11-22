@@ -14,28 +14,29 @@
 
  - countries.json
 
-
-    [
-      {
-        <Country Code>: <Country Name>
-      }
-    ]
-
+```json
+[
+  {
+    "<Country Code>": "<Country Name>"
+  }
+]
+```
 - schools.json
 
-
-    [
-      {
-        "countryCode": <Country Code>,
-        "schoolName": <School Chinese Name>,
-        "schoolUrl": <School Website URL>,
-        "startYear": <Starting year of contract with NTU, -1 for those coming soon>,
-        "contractQuota": <Quota of contract with NTU>,
-        "selectQuota":  <Min select>,
-        "selectQuotaTotal":  <Max select>,
-        "oiaId": <ID of school in OIA system>
-      }
-    ]
+```json
+[
+  {
+    "countryCode": "<Country Code>",
+    "schoolName": "<School Chinese Name>",
+    "schoolUrl": "<School Website URL>",
+    "startYear": "<Starting year of contract with NTU, -1 for those coming soon>",
+    "contractQuota": "<Quota of contract with NTU>",
+    "selectQuota":  "<Min select>",
+    "selectQuotaTotal":  "<Max select>",
+    "oiaId": "<ID of school in OIA system>"
+  }
+]
+```
 
 ## 使用範例
 
